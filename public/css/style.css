@@ -1,0 +1,38 @@
+body {
+    background-color: #f3f7f9;
+}
+
+.m-custom {
+    margin: 30px 0;
+}
+
+p, a.text-black{
+    color: #333;
+}
+
+
+.border-left-primary {
+    border-left: 4px solid #5777ba;
+}
+
+.border-left-success {
+    border-left: 4px solid #28a745;
+}
+
+
+.btn-blue{
+    background-color: #5777ba !important;
+    border-color: #5777ba !important;
+    color: #fff !important;
+}
+
+
+
+.card-list-item h6 {
+    margin-bottom: 2px;
+}
+
+.badge-primary {
+    background: #5777ba;
+}
+
